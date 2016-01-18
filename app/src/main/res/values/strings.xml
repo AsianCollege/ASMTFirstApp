@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ASMT FIrst App</string>
+    <string name="action_settings">Settings</string>
+    <string name ="hello_world">HELLO ASMT</string>
+    <string-array name ="group_name">
+        <item>Group A</item>
+        <item>Group B</item>
+        <item>Group C</item>
+        <item>Group D</item>
+        <item>Group E</item>
+        <item>Group F</item>
+        <item>Group G</item>
+        <item>Group H</item>
+        <item>Group I</item>
+        <item>Group J</item>
+        <item>Group K</item>
+        <item>Group L</item>
+    </string-array>
+</resources>
